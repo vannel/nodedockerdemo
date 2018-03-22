@@ -11,5 +11,5 @@ var server = http.createServer(function(req,res){
 
 });
 server.listen(port,hostName,function(){
-    console.log(`服务器运行在`);
+    console.log("服务器运行在");
 });
