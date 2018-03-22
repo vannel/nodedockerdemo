@@ -21,4 +21,7 @@
     "leancloud-storage": "^3.6.1",
     "leanengine": "^3.1.0"
   }
+  "engines": {
+    "node": "8.x"
+  }
 }
